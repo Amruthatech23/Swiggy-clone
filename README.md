@@ -17,7 +17,7 @@ project-folder/
 
 ##  Screenshot
 
-![Swiggy Clone Screenshot](screenshot.png) 
+![Swiggy Clone Screenshot](Screenshot.png) 
 
 ##  Tech Stack
 
